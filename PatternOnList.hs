@@ -11,3 +11,4 @@ oneOrTwoZero list = case list of
      [0] -> True
      [0,0] -> True
      _ -> False
+
