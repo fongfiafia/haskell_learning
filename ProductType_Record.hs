@@ -5,3 +5,4 @@ data User = MkUser
            userIsAdmin :: Bool
        }
        deriving (Show)
+
