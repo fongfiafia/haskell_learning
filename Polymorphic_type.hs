@@ -3,4 +3,4 @@ data Check a = MkCheck
         chestGold :: Int,
         chestTreasure :: a
     }   
-    deriving (Show)
+    deriving (Show) -- ghc help derive show function
