@@ -1,8 +1,9 @@
-# Project introduce
+# Introduction
 
-偶然的, i found functional programming is very interesting, so i decide to learn it and choose the language Haskell. 
+I found functional programming is very interesting, so i decide to learn it and choose the language Haskell. 
 
-This is the execises code example when i learn Haskell.
+## code
+This is the execises code example when i follow the learning videos.
 
-learned from video : (lecture 1-4)
+videos : (lecture 1-4)
 [Youtube](https://www.youtube.com/watch?v=6MsQcUprO9o)
