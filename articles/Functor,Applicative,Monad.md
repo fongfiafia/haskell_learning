@@ -117,7 +117,7 @@ foo = do
 
 
 
-And let is all !
+And that's all !
 
 
 

@@ -10,4 +10,4 @@ videos : (lecture 1-4)
 
 ## Articles
 
-[Functor, Applicative, Monad - Simplest content](/example/Functor,Applicative,Monad.md)
+[Functor, Applicative, Monad - Simplest content](/articles/Functor,Applicative,Monad.md)
