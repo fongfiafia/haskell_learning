@@ -1,9 +1,9 @@
-# A simple Haskell website use scotty
+# A Simple Haskell Website Uses Scotty
 
 ## Install && Run
 `cabal build` and `cabal run`  and the website is running at `localhost:8081`
 
-Query `http://localhost:8081/haskell/car/list` you will get:
+query `http://localhost:8081/haskell/car/list` you will get:
 
 ```
 [{
@@ -66,7 +66,10 @@ Query `http://localhost:8081/haskell/car/list` you will get:
 
 ## About code
 
-- backend
-  - domain : place car domain function e.g : queryCarList, addCarList...
-  - infra : place your infra e.g: mysql, redis...
-  - main.hs : entry point
+Dir instruction: 
+
+- src
+  - backend
+    - domain : place car domain function e.g : queryCarList, addCarList...
+    - infra : place your infra e.g: mysql, redis...
+    - main.hs : entry point
